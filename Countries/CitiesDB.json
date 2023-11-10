@@ -1,0 +1,115 @@
+{
+  "cities": [
+    {
+      "id": 2,
+      "name": "Westchester",
+      "countryId": "3",
+      "code": "6875"
+    },
+    {
+      "id": 3,
+      "shortId": "7529",
+      "name": "Springfield",
+      "countryId": "2",
+      "code": "98765"
+    },
+    {
+      "id": 4,
+      "shortId": "1562",
+      "name": "Riverside",
+      "countryId": "2",
+      "code": "34567"
+    },
+    {
+      "id": 5,
+      "shortId": "9684",
+      "name": "Greenfield",
+      "countryId": "2",
+      "code": "67890"
+    },
+    {
+      "id": 6,
+      "shortId": "4268",
+      "name": "Hilltown",
+      "countryId": "2",
+      "code": "23456"
+    },
+    {
+      "id": 7,
+      "shortId": "5371",
+      "name": "Oceanview",
+      "countryId": "2",
+      "code": "87654"
+    },
+    {
+      "id": 8,
+      "shortId": "6342",
+      "name": "Laketown",
+      "countryId": "2",
+      "code": "45678"
+    },
+    {
+      "id": 9,
+      "shortId": "7269",
+      "name": "Meadowville",
+      "countryId": "2",
+      "code": "76543"
+    },
+    {
+      "id": 10,
+      "shortId": "8914",
+      "name": "Harbor City",
+      "countryId": "2",
+      "code": "23456"
+    },
+    {
+      "id": 11,
+      "shortId": "3576",
+      "name": "Pleasantville",
+      "countryId": "2",
+      "code": "98765"
+    },
+    {
+      "id": 12,
+      "shortId": "9483",
+      "name": "Maplewood",
+      "countryId": "2",
+      "code": "34567"
+    },
+    {
+      "id": 14,
+      "shortid": "BO6Ab2Dvy",
+      "name": "aerf",
+      "countryId": "3",
+      "code": "aerfv"
+    },
+    {
+      "id": 19,
+      "shortid": "GUQ9ZrSH1s",
+      "name": "wef",
+      "countryId": "5",
+      "code": "earjgvnae;4wj5n"
+    },
+    {
+      "id": 20,
+      "shortid": "eb7Sg3a8H9",
+      "name": "uygviqurf",
+      "countryId": "4",
+      "code": "aerfearf"
+    },
+    {
+      "id": 21,
+      "shortid": "IfIbaEb7D",
+      "name": "awhejgdcluwae",
+      "countryId": "",
+      "code": "jkaesbfckjaw"
+    },
+    {
+      "id": 22,
+      "shortid": "dvO1OCeY_",
+      "name": "dfbndfv",
+      "countryId": "3",
+      "code": "rdf"
+    }
+  ]
+}

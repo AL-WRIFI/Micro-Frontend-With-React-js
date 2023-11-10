@@ -1,0 +1,74 @@
+{
+  "currencies": [
+    {
+      "id": 1,
+      "shortId": "1234",
+      "name": "US Dollar",
+      "code": "USD",
+      "fragment": "dollar"
+    },
+    {
+      "id": 2,
+      "shortId": "5678",
+      "name": "Euro",
+      "code": "EUR",
+      "fragment": "euro"
+    },
+    {
+      "id": 3,
+      "shortId": "9876",
+      "name": "Japanese Yen",
+      "code": "JPY",
+      "fragment": "yen"
+    },
+    {
+      "id": 4,
+      "shortId": "4321",
+      "name": "British Pound",
+      "code": "GBP",
+      "fragment": "pound"
+    },
+    {
+      "id": 5,
+      "shortId": "8765",
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "fragment": "dollar"
+    },
+    {
+      "id": 6,
+      "shortId": "2345",
+      "name": "Canadian Dollar",
+      "code": "CAD",
+      "fragment": "dollar"
+    },
+    {
+      "id": 7,
+      "shortId": "7890",
+      "name": "Swiss Franc",
+      "code": "CHF",
+      "fragment": "franc"
+    },
+    {
+      "id": 8,
+      "shortId": "3456",
+      "name": "Chinese Yuan",
+      "code": "CNY",
+      "fragment": "yuan"
+    },
+    {
+      "id": 9,
+      "shortId": "6543",
+      "name": "Indian Rupee",
+      "code": "INR",
+      "fragment": "rupee"
+    },
+    {
+      "id": 10,
+      "shortId": "8765",
+      "name": "South African Rand",
+      "code": "ZAR",
+      "fragment": "rand"
+    }
+  ]
+}
