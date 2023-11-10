@@ -1,0 +1,132 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "United States",
+      "code": "USA",
+      "nameEn": "United States of America",
+      "description": "The United States of America is a diverse and vast country in North America.",
+      "currencyCode": "USD",
+      "flag": "us_flag.png",
+      "nationality": "American",
+      "iso3Code": "USA",
+      "dialPatterns": "+1"
+    },
+    {
+      "id": 2,
+      "shortId": "CA",
+      "name": "Canada",
+      "code": "CAN",
+      "nameEn": "Canada",
+      "description": "Canada is a beautiful country known for its stunning landscapes and friendly people.",
+      "currencyCode": "CAD",
+      "flag": "ca_flag.png",
+      "nationality": "Canadian",
+      "iso3Code": "CAN",
+      "dialPatterns": "+1"
+    },
+    {
+      "id": 3,
+      "shortId": "UK",
+      "name": "United Kingdom",
+      "code": "GBR",
+      "nameEn": "United Kingdom of Great Britain and Northern Ireland",
+      "description": "The United Kingdom is known for its rich history and diverse culture.",
+      "currencyCode": "GBP",
+      "flag": "uk_flag.png",
+      "nationality": "British",
+      "iso3Code": "GBR",
+      "dialPatterns": "+44"
+    },
+    {
+      "id": 4,
+      "shortId": "FR",
+      "name": "France",
+      "code": "FRA",
+      "nameEn": "French Republic",
+      "description": "France is famous for its cuisine, art, and romantic atmosphere.",
+      "currencyCode": "EUR",
+      "flag": "fr_flag.png",
+      "nationality": "French",
+      "iso3Code": "FRA",
+      "dialPatterns": "+33"
+    },
+    {
+      "id": 5,
+      "shortId": "DE",
+      "name": "Germany",
+      "code": "DEU",
+      "nameEn": "Federal Republic of Germany",
+      "description": "Germany is known for its engineering prowess and scenic landscapes.",
+      "currencyCode": "EUR",
+      "flag": "de_flag.png",
+      "nationality": "German",
+      "iso3Code": "DEU",
+      "dialPatterns": "+49"
+    },
+    {
+      "id": 6,
+      "shortId": "JP",
+      "name": "Japan",
+      "code": "JPN",
+      "nameEn": "Japan",
+      "description": "Japan is a country where tradition and modernity coexist.",
+      "currencyCode": "JPY",
+      "flag": "jp_flag.png",
+      "nationality": "Japanese",
+      "iso3Code": "JPN",
+      "dialPatterns": "+81"
+    },
+    {
+      "id": 7,
+      "shortId": "AU",
+      "name": "Australia",
+      "code": "AUS",
+      "nameEn": "Commonwealth of Australia",
+      "description": "Australia is known for its unique wildlife and stunning natural beauty.",
+      "currencyCode": "AUD",
+      "flag": "au_flag.png",
+      "nationality": "Australian",
+      "iso3Code": "AUS",
+      "dialPatterns": "+61"
+    },
+    {
+      "id": 8,
+      "shortId": "BR",
+      "name": "Brazil",
+      "code": "BRA",
+      "nameEn": "Federative Republic of Brazil",
+      "description": "Brazil is the largest country in South America and known for its carnival celebrations.",
+      "currencyCode": "BRL",
+      "flag": "br_flag.png",
+      "nationality": "Brazilian",
+      "iso3Code": "BRA",
+      "dialPatterns": "+55"
+    },
+    {
+      "id": 9,
+      "name": "India",
+      "code": "IND",
+      "nameEn": "Republic of India",
+      "description": "India is a land of diverse cultures, languages, and traditions.",
+      "currencyCode": "INR",
+      "flag": "in_flag.png",
+      "nationality": "Indian",
+      "iso3Code": "IND",
+      "dialPatterns": "+91"
+    },
+    {
+      "id": 10,
+      "shortid": "oK_tkvXKY5",
+      "name": "aerhf",
+      "code": "adrtg",
+      "nameEn": "etg",
+      "description": "aetg",
+      "currencyCode": "aergt",
+      "flag": "earg",
+      "nationality": "earg",
+      "iso3Code": "erg",
+      "dialPatterns": "earg"
+    }
+  ]
+}

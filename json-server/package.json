@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start-both": "concurrently \"npx json-server CountryDB.json --watch --port 3005\" \"npx json-server CityDB.json --watch --port 3006\" \"npx json-server CurrencyDB.json --watch --port 3007\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "json-server": "^0.17.4"
+  }
+}
